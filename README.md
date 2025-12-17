@@ -101,7 +101,7 @@ The goal was to learn and practice, not to create perfect code.
 ### Example move
 ![Example move](docs/console-move.png)
 
-### Game in progress
+### Checkmate
 ![Game in progress](docs/console-checkmate.png)
 
 
