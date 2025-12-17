@@ -93,3 +93,15 @@ The goal was to learn and practice, not to create perfect code.
 
 ---
 
+## Example Output
+
+### Game start
+![Game start](docs/console-start.png)
+
+### Example move
+![Example move](docs/console-move.png)
+
+### Game in progress
+![Game in progress](docs/console-checkmate.png)
+
+
